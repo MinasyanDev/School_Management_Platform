@@ -1,0 +1,34 @@
+.question{
+   border: 1px solid black;
+   background: #3F51B5;
+   padding: 40px;
+   margin: 22px;
+   color: white;
+}
+.answerGreen{
+   background:green!important;
+   color:black;
+   padding: 20px;
+   margin:20px;
+   font-size:20px;
+   cursor: pointer;
+}
+.answerRed{
+   background:red!important;
+   color:black;
+   padding: 20px;
+   margin:20px;
+   font-size:20px;
+   cursor: pointer;
+}
+.answerWhite{
+   background:white!important;
+   color:black;
+   padding: 20px;
+   margin:20px;
+   font-size:20px;
+   cursor: pointer;
+}
+.answer:hover{
+   background:orange!important;
+}
